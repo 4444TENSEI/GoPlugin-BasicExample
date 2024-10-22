@@ -1,0 +1,7 @@
+tmp/
+version/
+
+
+*.exe
+.air.toml
+*.txt

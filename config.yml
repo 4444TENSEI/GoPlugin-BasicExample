@@ -1,0 +1,4 @@
+
+plugins:
+  - path: "plugin/greeter/main"
+  - path: "plugin/plugin2"
