@@ -48,6 +48,3 @@ go build -o basic .
 ```
 ./basic
 ```
-
-# GoPlugin-BasicExample
-
